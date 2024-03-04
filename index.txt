@@ -1,0 +1,248 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Hiritik sonar
+Hiritik sonar
+Frontend Developer 
+React js
+
+Show Contacts
+
+Email
+hititiksonar@gmail.com
+
+Phone
++977 9824373351
+
+Birthday
+Jan 2, 2002
+
+Location
+Sankhamul, Kathmandu Nepal
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm an IT student who is enthusiastic and motivated and is passionate about keeping up with the newest developments in technology and the market. I am constantly striving to improve my skills and stay ahead of latest trends in software development.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Srijan shakya
+Daniel lewis
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+alt = Prasim Thapa
+Jessica miller
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+alt = Suyash dhakal
+Emily evans
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+alt = Manish soni
+Henry william
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+
+## Skills
+
+Clients
+
+alt = skills logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Islington College, Hons.Computing
+2021 - Present
+Through this journey I get deeper understanding of computer science principles, advanced programming skills, and have a strong interest in technology, mathematics, problem-solving, and innovation
+
+Greenland College, +2 Science
+2019 — 2021
+During my +2 educational track I focuses on subjects such as Physics, Chemistry, Biology, Mathematics, and Computer Science.
+
+Inaruwa English Boarding School
+2007 — 2019
+The period of formal education or childhood education.
+
+Experience
+
+Frontend Developer, Blanxer
+2024 — Present
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
+
+Reactjs Intern, Vrit Tech
+2023 — 2024
+During my internship, I gained hands-on experience writing clean and efficient code in JavaScript and leveraging React.js components to build reusable UI elements.
+
+Nodejs Intern, PD Technology
+2022 — 2023
+I had the opportunity to contribute to the development of server-side applications and APIs using Node.js. Additionally, I assisted in designing and implementing RESTful APIs, integrating databases, and implementing authentication mechanisms to support frontend applications and facilitate client-server communication
+My skills
+
+Web design
+80%
+HTML
+70%
+CSS
+90%
+UI/UX
+50%
+Nodejs
+40%
+Graphic design
+70%
+Tailwind Css
+80%
+Python 
+60%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = Admin dashboard
+Admin
+Web development
+
+alt = doctor 
+Doctor Appointment
+Web development
+
+alt = jewellers
+Jewellers
+Web design
+
+alt = cloud
+Cloud education
+Applications
+
+alt = data
+Appointment data
+Web design
+
+alt = ecommerce
+Web development 
+Web design
+
+alt = navbar
+Navbar
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
